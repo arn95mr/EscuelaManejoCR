@@ -1,0 +1,2 @@
+# EscuelaManejoCR
+Proyecto Laravel 
